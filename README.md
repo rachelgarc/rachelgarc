@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Rachel's GitHub :burrito: :nerd_face: :maple_leaf: :star:
 
 <!--
 **rachelgarc/rachelgarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
